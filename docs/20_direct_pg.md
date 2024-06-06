@@ -1,3 +1,9 @@
+---
+title: Cardano Queries usage PostgreSQL
+categories: usage
+tags: usage postgres postgresql sql
+---
+
 ￪ [bach to main](00_main.md)
 
 

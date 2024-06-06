@@ -1,3 +1,9 @@
+---
+title: Cardano Queries Service
+categories: service
+tags: home service signup
+---
+
 # Cardano Queries
 
 ![Cardano Queries icon](images/BCA_Queries_256x256.png)

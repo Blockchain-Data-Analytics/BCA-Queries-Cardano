@@ -1,3 +1,9 @@
+---
+title: Cardano Queries use pgAdmin
+categories: usage
+tags: usage pgadmin
+---
+
 ￪ [bach to main](00_main.md)
 
 

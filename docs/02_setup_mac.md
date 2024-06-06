@@ -1,3 +1,9 @@
+---
+title: Cardano Queries Setup macOS
+categories: setup
+tags: setup macos
+---
+
 ￪ [bach to main](00_main.md)
 
 

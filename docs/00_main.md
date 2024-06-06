@@ -9,6 +9,7 @@
 - [Setup Cardano Queries on your machine](#setup-cardano-queries-on-your-machine)
 - [How to run queries through this service](#how-to-run-queries-through-this-service)
 
+![   ](images/vspace.png)
 
 ## Signup for this service
 
@@ -30,6 +31,7 @@ We cannot provide you with a strict SLA. But, we promise to keep the services al
 
 See our [main page](https://github.com/Blockchain-Data-Analytics) for contact details.
 
+![   ](images/vspace.png)
 
 ## Data source
 
@@ -39,6 +41,7 @@ We provide you with a complete setup containing all credentials to connect to ou
 
 Prerequisites: you need to have [Docker](https://www.docker.com/products/docker-desktop/) installed.
 
+![   ](images/vspace.png)
 
 ## Setup Cardano Queries on your machine
 
@@ -60,6 +63,7 @@ e.g. FreeBSD
 
 [other setup](04_setup_other.md)
 
+![   ](images/vspace.png)
 
 ## How to run queries through this service
 

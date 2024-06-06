@@ -80,3 +80,8 @@ e.g. FreeBSD
 ### Sending queries directly to PostgreSQL
 
 [PostgreSQL connection](20_direct_pg.md)
+
+
+![   ](images/vspace.png)
+
+[index](60_index.md) | [tags](50_tags.md) | [categories](40_categories.md)

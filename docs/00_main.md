@@ -1,6 +1,6 @@
 # Cardano Queries
 
-![Cardano Queries icon](images/BCA_Queries_512x512.png)
+![Cardano Queries icon](images/BCA_Queries_256x256.png)
 
 ## Content
 
@@ -12,7 +12,12 @@
 
 ## Signup for this service
 
+> for a limited time during the beta-phase of this project until end of August 2024 we provide a **50% reduction** on the subscription fee
+
 Depending on your location you may choose to connect to either:
+
+[![Banner Cardano Queries EU](images/BCA%20Queries%20banner%20EU.png)](https://github.com/sponsors/Blockchain-Data-Analytics/sponsorships?pay_prorated=true&tier_id=406906)
+[![Banner Cardano Queries US](images/BCA%20Queries%20banner%20US.png)](https://github.com/sponsors/Blockchain-Data-Analytics/sponsorships?pay_prorated=true&tier_id=406907)
 
 | location | sponsorship tier | link |
 |----|----|----|

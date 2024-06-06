@@ -7,6 +7,13 @@
 
 ## signup
 
+> for a limited time until end of August 2024 we provide a **50% reduction** on the subscription fee
+
+Depending on your location you may choose to connect to either:
+
+[![Banner Cardano Queries EU](docs/images/BCA%20Queries%20banner%20EU.png)](https://github.com/sponsors/Blockchain-Data-Analytics/sponsorships?pay_prorated=true&tier_id=406906)
+[![Banner Cardano Queries US](docs/images/BCA%20Queries%20banner%20US.png)](https://github.com/sponsors/Blockchain-Data-Analytics/sponsorships?pay_prorated=true&tier_id=406907)
+
 | location | sponsorship tier | link |
 |----|----|----|
 | Europe 🇪🇺 |  $29 per month  | [select EU servers](https://github.com/sponsors/Blockchain-Data-Analytics/sponsorships?pay_prorated=true&tier_id=406906) |
@@ -17,4 +24,3 @@ Payment of the selected sponsorship gives you the right to use the service for u
 We cannot provide you with a strict SLA. But, we promise to keep the services alive and fix technical problems asap. We have decent monitoring in place and will be able to react to service disruption.
 
 See our [main page](https://github.com/Blockchain-Data-Analytics) for contact details.
-

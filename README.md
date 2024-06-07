@@ -1,6 +1,6 @@
 # Cardano Queries
 
-[![read the docs](docs/images/BCA_Queries_256x256.png)](https://blockchain-data-analytics.github.io/Cardano_Queries/)
+[![read the docs](docs/images/BCA_Queries_logo_filled.png)](https://blockchain-data-analytics.github.io/Cardano_Queries/)
 
 << documentation >>
 
@@ -11,8 +11,8 @@
 
 Depending on your location you may choose to connect to either:
 
-[![Banner Cardano Queries EU](docs/images/BCA%20Queries%20banner%20EU.png)](https://github.com/sponsors/Blockchain-Data-Analytics/sponsorships?pay_prorated=true&tier_id=406906)
-[![Banner Cardano Queries US](docs/images/BCA%20Queries%20banner%20US.png)](https://github.com/sponsors/Blockchain-Data-Analytics/sponsorships?pay_prorated=true&tier_id=406907)
+[![Banner Cardano Queries EU](docs/images/BCA_Queries_banner_EU.png)](https://github.com/sponsors/Blockchain-Data-Analytics/sponsorships?pay_prorated=true&tier_id=406906)
+[![Banner Cardano Queries US](docs/images/BCA_Queries_banner_US.png)](https://github.com/sponsors/Blockchain-Data-Analytics/sponsorships?pay_prorated=true&tier_id=406907)
 
 | location | sponsorship tier | link |
 |----|----|----|

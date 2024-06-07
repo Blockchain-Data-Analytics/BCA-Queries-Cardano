@@ -6,7 +6,7 @@ tags: home service signup
 
 # Cardano Queries
 
-![Cardano Queries icon](images/BCA_Queries_256x256.png)
+![Cardano Queries icon](images/BCA_Queries_logo_filled.png)
 
 ## Content
 
@@ -23,8 +23,8 @@ tags: home service signup
 
 Depending on your location you may choose to connect to either:
 
-[![Banner Cardano Queries EU](images/BCA%20Queries%20banner%20EU.png)](https://github.com/sponsors/Blockchain-Data-Analytics/sponsorships?pay_prorated=true&tier_id=406906)
-[![Banner Cardano Queries US](images/BCA%20Queries%20banner%20US.png)](https://github.com/sponsors/Blockchain-Data-Analytics/sponsorships?pay_prorated=true&tier_id=406907)
+[![Banner Cardano Queries EU](images/BCA_Queries_banner_EU.png)](https://github.com/sponsors/Blockchain-Data-Analytics/sponsorships?pay_prorated=true&tier_id=406906)
+[![Banner Cardano Queries US](images/BCA_Queries_banner_US.png)](https://github.com/sponsors/Blockchain-Data-Analytics/sponsorships?pay_prorated=true&tier_id=406907)
 
 | location | sponsorship tier | link |
 |----|----|----|

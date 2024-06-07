@@ -1,8 +1,8 @@
 # Cardano Queries
 
-[![read the docs](docs/images/BCA_Queries_logo_filled.png)](https://blockchain-data-analytics.github.io/Cardano_Queries/)
+[![read the docs](docs/images/BCA_Queries_logo_filled.png)](https://blockchain-data-analytics.github.io/BCA-Queries-Cardano/)
 
-<< documentation >>
+<< [documentation](https://blockchain-data-analytics.github.io/BCA-Queries-Cardano/) >>
 
 
 ## signup

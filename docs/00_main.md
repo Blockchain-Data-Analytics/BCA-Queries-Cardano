@@ -77,6 +77,8 @@ e.g. FreeBSD
 
 ### Running queries in _pgAdmin_
 
+[setup pgAdmin](11_setup_pgadmin.md)
+
 [using pgAdmin](10_use_pgadmin.md)
 
 ### Sending queries directly to PostgreSQL

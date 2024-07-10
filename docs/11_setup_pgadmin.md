@@ -11,7 +11,7 @@ tags: usage pgadmin
 
 [pgAdmin](http://localhost:5480) is available locally at http://localhost:5480
 
-After login to _pgAdmin_ first create a connection to the database:
+After logging into _pgAdmin_, first create a connection to the database:
 
 1. in the first tab give the server connect a name
 

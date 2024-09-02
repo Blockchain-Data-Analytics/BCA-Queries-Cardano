@@ -7,9 +7,13 @@
 
 ## signup
 
-> for a limited time during the beta-phase of this project until end of August 2024 we provide a **50% reduction** on the subscription fee
+> for a limited time during the beta-phase of this project we provide a **50% reduction** on the subscription fee
 
-You can subscribe to [Cardano Queries](https://shop.bca.sbclab.net/products/cardano-queries) in our shop for a monthly fee.
+You can subscribe to this service in our
+
+**&#128722; [Shop: Cardano Queries](https://shop.bca.sbclab.net/products/cardano-queries)**
+
+for a monthly fee.
 
 There are two options: either connect to our infrastructure in USA, or in Europe. Depending on your location this can reduce latency and thus increase query performance. 
 
